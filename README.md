@@ -1,6 +1,6 @@
 # Facebook Messenger Location Demo Bot
 
-This is a AWS Serverless Application Repository to build a Facebook bot and handle location information.  It returns some relevant things like timezone, place search, nearby roads, etc.  This is not really a standalone bot but rather something to build on top of in other bots that might need this information for user settings, personalization, etc.
+This is a Serverless Application Repository to build a Facebook bot and handle location information.  It returns some relevant things like timezone, place search, nearby roads, etc.  This is not really a standalone bot but rather something to build on top of in other bots that might need this information for user settings, personalization, etc.
 
 You can see the listing for this Serverless Application [here](https://serverlessrepo.aws.amazon.com/#/applications/arn:aws:serverlessrepo:us-east-1:050606003020:applications~fb-location-demo). 
 
