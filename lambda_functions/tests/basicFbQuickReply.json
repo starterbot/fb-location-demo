@@ -1,0 +1,28 @@
+{
+  "entry": [
+    {
+      "id": "[unique-value-here]",
+      "messaging": [
+        {
+          "message": {
+            "mid": "mid.[unique-value-here]",
+            "quick_reply": {
+              "payload": "helpIntent"
+            },
+            "seq": 13420,
+            "text": "Help"
+          },
+          "recipient": {
+            "id": "recepient123"
+          },
+          "sender": {
+            "id": "sender123"
+          },
+          "timestamp": 1529137647266
+        }
+      ],
+      "time": 1484250480389
+    }
+  ],
+  "object": "page"
+}

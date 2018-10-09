@@ -1,0 +1,37 @@
+{
+    "entry": [
+        {
+            "id": "[unique-value-here]",
+            "messaging": [
+                {
+                    "message": {
+                        "attachments": [
+                            {
+                                "payload": {
+                                    "coordinates": {
+                                        "lat": 360,
+                                        "long": -360
+                                    }
+                                },
+                                "title": "Starter Bot's Location",
+                                "type": "location",
+                                "url": "https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.bing.com%2Fmaps%2Fdefault.aspx%3Fv%3D2%26pc%3DFACEBK%26mid%3D8100%26where1%3D39.759235%252C%2B-86.157346%26FORM%3DFBKPL1%26mkt%3Den-US&h=AT22vUalPKKN2VaG79WFsF3IMc7PEKyBi4cB2SIxMUW2tjeCzn24RVGpmQsCsTnuu4zL6Oeox1ZG7kD45xz3hXz-D-HbFpQX4pP4E0C08VCnXvAVI9bXs8GOIWAJyBRuymLfQXZYIbFZG4w&s=1"
+                            }
+                        ],
+                        "mid": "mid.[unique-value-here]",
+                        "seq": 13420
+                    },
+                    "recipient": {
+                        "id": "recepient123"
+                    },
+                    "sender": {
+                        "id": "sender123"
+                    },
+                    "timestamp": 1529137647266
+                }
+            ],
+            "time": 1484250480389
+        }
+    ],
+    "object": "page"
+}

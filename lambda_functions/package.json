@@ -1,0 +1,13 @@
+{
+  "name": "fb-location-demo",
+  "version": "1.0.0",
+  "description": "This is a AWS Serverless Application Repository on how to deal with location information and return some relevants stuff like timezone, current time in that place, country, etc.",
+  "readme": "This is a AWS Serverless Application Repository on how to deal with location information and return some relevants stuff like timezone, current time in that place, country, etc.",
+  "repository": "https://www.github.com/starterbot/fb-location-demo",
+  "main": "index.js",
+  "author": "starterbot",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@google/maps": "0.5.5"
+  }
+}

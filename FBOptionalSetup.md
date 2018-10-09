@@ -1,4 +1,4 @@
-# Facebook Specific Setup
+# Facebook Optional Setup
 
 On Windows, use git bash not powershell.  Ubuntu and Mac you are fine with terminal.
 
